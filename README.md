@@ -2,6 +2,6 @@
 
 Proyecto Flutter
 
-## Getting Started
+## Descripción
 
 Proyecto de ejemplo en Flutter para realizar una aplicación contador
